@@ -1,5 +1,5 @@
 syntax enable
-set expandtab tabstop=2 shiftwidth=2 softtabstop=2
+set expandtab tabstop=4 shiftwidth=4 softtabstop=4
 set ruler
 set history=1000
 set title
